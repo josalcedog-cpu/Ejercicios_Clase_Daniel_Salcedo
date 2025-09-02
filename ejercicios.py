@@ -131,4 +131,3 @@ if y6 < 10:
     print("El valor que introdujo es menor o igual a diez")
 else:
     print("Su valor es mayor a 10")
-#Fin del codigo

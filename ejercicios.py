@@ -127,8 +127,8 @@ print("-Menor o igual que: ")
 
 y6 = int(input("Digite un valor entero: "))
 
-if(y6 < 10):
+if y6 < 10:
     print("El valor que introdujo es menor o igual a diez")
-else: 
-    print ("Su valor es mayor a 10")     
-
+else:
+    print("Su valor es mayor a 10")
+#Fin del codigo

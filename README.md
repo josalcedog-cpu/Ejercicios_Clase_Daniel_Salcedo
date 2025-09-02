@@ -1,9 +1,15 @@
 Autor : José Daniel Salcedo Gutiérrez
+
+
 En el presente archivo se hará la explicación y documentación de los ejercicios planteados.
+
 1.  Cambio de dato en las variables:
+   
   Para la conversión de entero (int) a decimal (float): 
-  El ejercicio inicia con la conversion desde un tipo de dato entero (int) y lo convierte de entero a decimal (float) y a una cadena de caracteres (str), a continuación el codigo planteado:
-  <img width="618" height="137" alt="image" src="https://github.com/user-attachments/assets/61839280-399a-4ed1-9a42-68e0122af384" />
+  El ejercicio inicia con la conversion desde un tipo de dato entero (int) y lo convierte de entero a decimal (float) y a una 
+  cadena de caracteres (str), a continuación el codigo planteado:
+  <img width="618" height="137" alt="image" src="https://github.com/user-attachments/assets/61839280-399a-4ed1-9a42-68e0122af384" 
+  />
 
   En la linea numero 10 del codigo se plantea la variable de entrada desde un input que recibe una cadena de carácteres y posteriormente una funcion convierte la variable de entrada de str a entero ya que el ejercicio plantea la conversión desde una variable del tipo entera a un float.
   En la linea del codigo número 11 se muestra en la consola el tipo de variable y el valor de la variable ahora convertido en string.
@@ -68,8 +74,10 @@ En el presente archivo se hará la explicación y documentación de los ejercici
  
   Como se aprecia en el terminal la conversión es exitosa ya que a la hora de operar aritmeticamente la variable con ella misma me arroja correctamente su resultado además de estar señalado con la función type().
   
-2.  Funcion Input
-   En este ejercicio planteado en clase se utiliza la función input para resolver una ecuuación lineal utilizando 1 variable y 3       constantes que el propio usuario planteara y el programa realizará la solución del msimo.
+2.  Funcion Input:
+
+
+    En este ejercicio planteado en clase se utiliza la función input para resolver una ecuuación lineal utilizando 1 variable y 3      constantes que el propio usuario planteara y el programa realizará la solución del msimo.
     A continuación el codigo planteado:
 
     <img width="1046" height="298" alt="image" src="https://github.com/user-attachments/assets/8883911e-c036-4acf-b256-5eaee5838771" />
@@ -86,7 +94,7 @@ En el presente archivo se hará la explicación y documentación de los ejercici
     Como se puede apreciar en la consola todo el programa funciona como se esperaba.
 
 
-3. 
+
 
   
 

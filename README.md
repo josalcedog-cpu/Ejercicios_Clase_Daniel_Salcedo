@@ -137,22 +137,27 @@ En el presente archivo se hará la explicación y documentación de los ejercici
     e. Mayor o igual que:
 
 
-     <img width="538" height="196" alt="image" src="https://github.com/user-attachments/assets/a4b0e76b-9b2e-4c41-afde-c6042bdd5ef7" />
+     <img width="492" height="207" alt="image" src="https://github.com/user-attachments/assets/1e7cdf0a-599d-443e-8871-5160e138cbbd" />
+
 
 
      LO que aparece en el terminal:
 
 
-      <img width="351" height="54" alt="image" src="https://github.com/user-attachments/assets/0a2f4aa6-7281-4e9a-90f4-004b8b168d1c" />
+      <img width="341" height="52" alt="image" src="https://github.com/user-attachments/assets/feb79df0-9965-49d5-8488-e8e09ece557d" />
+
 
    f. Menor o igual que:
 
-      <img width="566" height="210" alt="image" src="https://github.com/user-attachments/assets/b8a02e05-77b7-4c45-8127-0bde007b08dd" />
+      <img width="596" height="194" alt="image" src="https://github.com/user-attachments/assets/a8ff5869-6df3-48cc-84d7-c0a1867851a2" />
+
 
       Lo que aparece en el terminal:
 
 
-      <img width="381" height="50" alt="image" src="https://github.com/user-attachments/assets/580d96cb-c196-46b9-9a75-26bf8a53c514" />
+      <img width="352" height="46" alt="image" src="https://github.com/user-attachments/assets/9d6ea5ee-eaba-4c5b-91ce-eadaf294681d" />
+
+      
 
 
 

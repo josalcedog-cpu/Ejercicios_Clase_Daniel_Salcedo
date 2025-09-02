@@ -94,6 +94,79 @@ En el presente archivo se hará la explicación y documentación de los ejercici
     Como se puede apreciar en la consola todo el programa funciona como se esperaba.
 
 
+3. Ejercicios de Condicionales:
+
+   En este programa se realizaran siete ejercicios sobre la funcion if y sus operadores comparativos.
+
+   a. Igual: Para este ejercicio se realizo una simulacion de interfaz de acceso siendo la contraseña "12345".
+
+   <img width="525" height="193" alt="image" src="https://github.com/user-attachments/assets/4fabf97d-91bd-4f19-8c38-d3f6d10eafdc" />
+
+   Lo que aparece en el terminal:
+
+   <img width="251" height="54" alt="image" src="https://github.com/user-attachments/assets/47e44ee2-6b4c-4211-a490-1fce5fdadd09" />
+
+   b. Diferente de:
+
+      <img width="504" height="178" alt="image" src="https://github.com/user-attachments/assets/2b247b6c-a340-4f4c-86e9-4c09f469d42e" />
+
+
+   Lo que aparece en el terminal:
+
+   <img width="270" height="53" alt="image" src="https://github.com/user-attachments/assets/94e8852b-588a-4ef9-9f19-336d4f74b7ac" />
+
+   c. Mayor que:
+
+      <img width="532" height="175" alt="image" src="https://github.com/user-attachments/assets/0c89d594-ecd9-418b-ac91-41824456e2a6" />
+
+
+    Lo que aparece en el terminal:
+
+
+     <img width="324" height="53" alt="image" src="https://github.com/user-attachments/assets/fd454fd1-3a48-49e0-947c-5933bf113719" />
+
+   d. Menor que:
+
+     <img width="488" height="195" alt="image" src="https://github.com/user-attachments/assets/6dfaf809-3102-45eb-bd8a-39b8786a8313" />
+
+     Lo que aparece en el terminal:
+
+
+      <img width="330" height="53" alt="image" src="https://github.com/user-attachments/assets/60356931-c1de-4385-9b0f-49617368675b" />
+
+    e. Mayor o igual que:
+
+
+     <img width="538" height="196" alt="image" src="https://github.com/user-attachments/assets/a4b0e76b-9b2e-4c41-afde-c6042bdd5ef7" />
+
+
+     LO que aparece en el terminal:
+
+
+      <img width="351" height="54" alt="image" src="https://github.com/user-attachments/assets/0a2f4aa6-7281-4e9a-90f4-004b8b168d1c" />
+
+   f. Menor o igual que:
+
+      <img width="566" height="210" alt="image" src="https://github.com/user-attachments/assets/b8a02e05-77b7-4c45-8127-0bde007b08dd" />
+
+      Lo que aparece en el terminal:
+
+
+      <img width="381" height="50" alt="image" src="https://github.com/user-attachments/assets/580d96cb-c196-46b9-9a75-26bf8a53c514" />
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
 
 
   

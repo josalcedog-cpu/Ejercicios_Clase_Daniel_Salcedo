@@ -22,6 +22,8 @@ En el presente archivo se hará la explicación y documentación de los ejercici
 
   Para la conversión de entero (int) a cadena de caracteres (str):
   El ejercicio inicia con la conversion desde un tipo de dato entero (int) previamente operado en el input ya que el tipo de variable que arroja la entrada de datos es una cadena de caracteres y nosotros buscamos pasar de entero a string, a continuación el codigo planteado:
+
+  
   <img width="609" height="98" alt="image" src="https://github.com/user-attachments/assets/4649b0f4-b912-4449-a993-fbf7cb87c5b6" />
  
   Nuevamente en este codigo se realiza un planteamiento de el tipo y la variable nueva que obtenemos de la conversión y su respectivo operador aritmetico para comprobar su tipo de dato.
@@ -35,6 +37,8 @@ En el presente archivo se hará la explicación y documentación de los ejercici
   El ejercicio inicia con una conversión de tipo string a float, posteriormente una funcion de tipo int convertira la variable a entero.
   Se plantea igualmente un mensaje que muestre la variable y su tipo de dato nuevo.
   A continuacion el codigo planteado:
+
+
   <img width="608" height="128" alt="image" src="https://github.com/user-attachments/assets/0eb24190-6c0a-4789-86b0-b37c2d653fa5" />
  
   A continuación un ejemplo en el terminal: 

@@ -114,9 +114,9 @@ else:
 
 print("-Mayor o igual que: ")
 
-y4 = int(input("Digite un valor entero: "))
+y5 = int(input("Digite un valor entero: "))
 
-if(y4 >= 10):
+if(y5 >= 10):
     print("El valor que introdujo es mayor o igual a diez")
 else: 
     print ("Su valor es menor a 10")   
@@ -125,9 +125,10 @@ else:
 
 print("-Menor o igual que: ")
 
-y4 = int(input("Digite un valor entero: "))
+y6 = int(input("Digite un valor entero: "))
 
-if(y4 < 10):
+if(y6 < 10):
     print("El valor que introdujo es menor o igual a diez")
 else: 
     print ("Su valor es mayor a 10")     
+
